@@ -25,7 +25,7 @@ SECRET_KEY = 'tmh#)@-xg$64@9b+(0=#8i2f*ptt9h)a9w2*0hot$(y$o*4e^2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-env.eba-ktgacpkt.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['django-env.eba-ktgacpkt.us-west-2.elasticbeanstalk.com', 'eb.feudingfoxfantasy.com']
 
 
 # Application definition
